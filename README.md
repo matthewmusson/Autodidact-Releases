@@ -18,4 +18,5 @@ Visit the [Releases](https://github.com/matthewmusson/Autodidact-Releases/releas
 
 ---
 
-*Note: This is an automated release repository. Source code is available in the main [Autodidact repository](https://github.com/matthewmusson/Autodidact).*
+*Note: This is an automated release repository.
+
